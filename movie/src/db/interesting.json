@@ -1,0 +1,21 @@
+{
+    "products":[
+        {
+            "name":"",
+            "brand":"",
+            "price":"",
+            "image":[
+                {
+
+                    "img-front":""
+                },
+                {
+
+                    "img-back":""
+                }
+            ]
+
+        }
+        
+    ]
+}

@@ -1,0 +1,11 @@
+.header{
+    background-color: #131e29;
+    
+    display: flex;
+    flex-wrap: nowrap;
+
+    &__nav{
+        display: flex;
+
+    }
+}
