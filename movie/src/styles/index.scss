@@ -4,7 +4,9 @@
 @use'../styles/base/reset';
 
 //components
-
+@use'../styles/components/cardSecond';
 @use'../styles/components/commercial';
-
+@use'../styles/components/carrusel';
+//layout
 @use'../styles/layouts/navigation';
+@use'../styles/layouts/interesting';

@@ -1,0 +1,17 @@
+.interesting{
+    width: 100%;
+    position: relative;
+    border: green solid 3px;
+   height: 100vh;
+   
+   
+    &__container{
+        border: blue solid 2px;
+      display: flex;
+      flex-wrap: nowrap;
+      text-align: center;
+      overflow: hidden;
+      position:absolute;
+
+    }
+}
