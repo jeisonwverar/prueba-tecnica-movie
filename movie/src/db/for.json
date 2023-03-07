@@ -1,18 +1,112 @@
 {
     "products":[
         {
-            "name":"",
-            "brand":"",
-            "price":"",
+            "name":"CAMISETA DE HOMBRE, VERDE MILITAR DE MANDALORIAN",
+            "brand":"STAR WARS",
+            "price":"80.991",
             "image":[
-                {
+                "https://moviesshopco.vteximg.com.br/arquivos/ids/173083/236733_2_Varsity_MVS.jpg?v=638091326715200000"
+                ,
+                "https://moviesshopco.vteximg.com.br/arquivos/ids/173084/236733-camiseta-hombre-mandalorian-manga-corta-1.jpg?v=638091326918630000"
+            ]
 
-                    "img-front":""
-                },
-                {
+        },
+        {
+            "name":"CAMISETA DE HOMBRE, MANGA CORTA BLANCA DE STAR WARS",
+            "brand":"STAR WARS",
+            "price":"80.991",
+            "image":[
+                "https://moviesshopco.vteximg.com.br/arquivos/ids/173187/236847-camiseta-hombre-star-wars-manga-corta-1.jpg?v=638098286660570000"
+                ,
+                "https://moviesshopco.vteximg.com.br/arquivos/ids/173188/236847-camiseta-hombre-star-wars-manga-corta-4.jpg?v=638098287101230000"
+            ]
 
-                    "img-back":""
-                }
+        },
+        {
+            "name":"CAMISETA DE MANDALORIAN MANGA CORTA GRIS GRAFITO PARA HOMBRE",
+            "brand":"STAR WARS",
+            "price":"76.491",
+            "image":[
+                "https://moviesshopco.vteximg.com.br/arquivos/ids/173103/236793_Varsity_MVS.jpg?v=638092231626700000"
+                ,
+                "https://moviesshopco.vteximg.com.br/arquivos/ids/173104/236793-camiseta-hombre-mandalorian-manga-corta-1.jpg?v=638092231921930000"
+            ]
+
+        },
+        {
+            "name":"PANTALONETA DE BAÑO DE DRAGON BALL Z NEGRA Y GRIS PARA HOMBRE",
+            "brand":"DRAGON BALL",
+            "price":"107.991",
+            "image":[
+                "https://moviesshopco.vteximg.com.br/arquivos/ids/172949/SummerChill_MVS_236706.jpg?v=638058525383870000"
+                ,
+                "https://moviesshopco.vteximg.com.br/arquivos/ids/172772/236706_1_LookBook_MVS_1.jpg?v=638042258807800000"
+            ]
+
+        },
+        {
+            "name":"GORRA DE HOMBRE, NEGRA/ VERDE DE RICK AND MORTY",
+            "brand":"WARNER BROS",
+            "price":"59.990",
+            "image":[
+                "https://moviesshopco.vteximg.com.br/arquivos/ids/170168/JGL-RM023-1.jpg?v=637740725308000000"
+                ,
+                "https://moviesshopco.vteximg.com.br/arquivos/ids/170169/JGL-RM023-2.jpg?v=637740725932630000"
+            ]
+
+        },
+        {
+            "name":"CAMISETA DE HOMBRE, MANGA CORTA REGULAR FIT GRIS DE ©MARVEL",
+            "brand":"MARVEL",
+            "price":"69.291",
+            "image":[
+                "https://moviesshopco.vteximg.com.br/arquivos/ids/170408/229691_FRENTE_MOVIES.jpg?v=637788849356670000"
+                ,
+                "https://moviesshopco.vteximg.com.br/arquivos/ids/171143/229691_DETALLE1_MOVIES.jpg?v=637818243696530000"
+            ]
+
+        },
+        {
+            "name":"CAMISETA DE MANDALORIAN ESTAMPADA AZUL PARA HOMBRE",
+            "brand":"STAR WARS",
+            "price":"80.991",
+            "image":[
+                "https://moviesshopco.vteximg.com.br/arquivos/ids/173161/236767-camiseta-hombre-mandalorian-manga-corta-1.jpg?v=638095859984530000"
+                ,
+                "https://moviesshopco.vteximg.com.br/arquivos/ids/173163/236767-camiseta-hombre-mandalorian-manga-corta-4.jpg?v=638095860281700000"
+            ]
+
+        },
+        {
+            "name":"PANTALONETA DE BAÑO PARA HOMBRE, VERDE/AZUL DE MANDALORIAN",
+            "brand":"STAR WARS",
+            "price":"107.991",
+            "image":[
+                "https://moviesshopco.vteximg.com.br/arquivos/ids/173320/SummerChill_MVS_236710.jpg?v=638113864279430000"
+                ,
+                "https://moviesshopco.vteximg.com.br/arquivos/ids/173317/236710-pantaloneta-bano-hombre-mandalorian-1.jpg?v=638113861089100000"
+            ]
+
+        },
+        {
+            "name":"CAMISETA HOMBRE STAR WARS",
+            "brand":"STAR WARS",
+            "price":"72.891",
+            "image":[
+                "https://moviesshopco.vteximg.com.br/arquivos/ids/167770/233048_frente_movies.jpg?v=637457295237730000"
+                ,
+                "https://moviesshopco.vteximg.com.br/arquivos/ids/167771/233048_posterior_movies.jpg?v=637457295332870000"
+            ]
+
+        },
+        {
+            "name":"CAMISETA DE HOMBRE, MANGA CORTA REGULAR FIT GRIS DE STAR WARS: THE MANDALORIAN ©LUCASFILM LIMITED",
+            "brand":"STAR WARS",
+            "price":"74.691",
+            "image":[
+                "https://moviesshopco.vteximg.com.br/arquivos/ids/170637/232452_FRENTE_MOVIES.jpg?v=637804439820200000"
+                ,
+                "https://moviesshopco.vteximg.com.br/arquivos/ids/170638/232452_DETALLE1_MOVIES.jpg?v=637804440010330000"
             ]
 
         }

@@ -1,32 +1,36 @@
 import Commercial from "./components/Commercial";
 import Navbar from './components/Navbar';
-import Slider from "./components/Slider";
+import FormSuscription from "./components/FormSscription";
 import Interesting from "./components/Interesting";
+import Foryou from "./components/Foryou";
+import Galery from "./components/Galery";
+import Buy from "./components/Buy";
 function App() {
   
-  const MockImagenes=[
-    'https://picsum.photos/id/1020/400',
-    'https://picsum.photos/id/1025/400',
-    'https://picsum.photos/id/1024/400',
-  ]
+  
 
   return (
     <div>
       <Commercial/>
       <Navbar/>
-      <h2>slider</h2>
-      <Slider imagenes={MockImagenes}/>
+      <section className="main__card">   
+          <Galery/>
+          <Buy/>
+         {/*  <Acordion/> */}
+
+
+      </section>
       <section className="interesting">
         <h2 className='interesting__title' >También te puede <b>INTERESAR</b> </h2>
         <Interesting />
       </section>
-      <section className="foryou">
-      <h2 className="foryou__title">Seleccionados para <b>TI</b></h2>
-
+      <section className="interesting">
+      <h2 className="interesting__title">Seleccionados para <b>TI</b></h2>
+      <Foryou/>
       </section>
-      
-      <section className="form">
 
+      <section className="form">
+        <FormSuscription/>
       </section>
       <section className="chat">
 

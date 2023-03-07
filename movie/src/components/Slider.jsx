@@ -26,7 +26,7 @@ const Slider=({imagenes})=>{
                     //se valdia la imagen actual
                 <div className={imagenActual===index?'slide active':'slide'}>{imagenActual === index&&(
 
-                    <img key={index} src={img} alt='imagen'/>
+                    <img   src={img} alt='imagen'/>
                 )}
 
                 </div>

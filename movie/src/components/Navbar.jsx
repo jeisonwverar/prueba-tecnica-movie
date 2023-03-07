@@ -8,7 +8,7 @@
             <header className="header">
                 <div className="header-container__logo">
                     <a href="">
-                        <img src="" alt="" />
+                        <img src="https://moviesshopco.vtexassets.com/assets/vtex/assets-builder/moviesshopco.theme3/3.0.40/movies-logo___38662b246dad72023156ecfd25bec311.svg" alt="movies" />
                     </a>
                 </div>
                 <div className="header-container__search">

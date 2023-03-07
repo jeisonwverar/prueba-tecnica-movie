@@ -1,0 +1,9 @@
+.galery__container{
+
+    width: 400px;
+    
+
+    &:hover button{
+      display: block;
+    }
+}
